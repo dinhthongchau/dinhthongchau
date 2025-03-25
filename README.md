@@ -1,10 +1,10 @@
 ## Hi there 👋
 💬 Ask me about Flutter
 ## 🌱 My  projects:
-https://github.com/dinhthongchau/ChatWithToeicAI
-https://github.com/dinhthongchau/Flutter-ecommerce-app
-https://github.com/dinhthongchau/VuejsNodejs-ecommerce-web
-https://github.com/dinhthongchau/phone-shop-html-css-js-php
+- https://github.com/dinhthongchau/ChatWithToeicAI
+- https://github.com/dinhthongchau/Flutter-ecommerce-app
+- https://github.com/dinhthongchau/VuejsNodejs-ecommerce-web
+- https://github.com/dinhthongchau/phone-shop-html-css-js-php
 <!--
 **dinhthongchau/dinhthongchau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
