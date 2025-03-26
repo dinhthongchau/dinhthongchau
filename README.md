@@ -1,10 +1,14 @@
-## Hi there 👋
-💬 Ask me about Flutter
+## Hi, I'm Chau Dinh Thong! 👋  
+Flutter Developer passionate about building cross-platform mobile apps.
 ## 🌱 My  projects:
 - https://github.com/dinhthongchau/Flutter-ecommerce-app
 - https://github.com/dinhthongchau/ChatWithToeicAI
 - https://github.com/dinhthongchau/VuejsNodejs-ecommerce-web
 - https://github.com/dinhthongchau/phone-shop-html-css-js-php
+
+### 📫 Contact  
+- Email: dinhthongchau@gmail.com
+- Location: Can Tho, Vietnam
 <!--
 **dinhthongchau/dinhthongchau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
