@@ -1,10 +1,9 @@
 ## Hi, I'm Chau Dinh Thong! 👋  
 Flutter Developer passionate about building cross-platform mobile apps.
 ## 🌱 My  projects:
-- https://github.com/dinhthongchau/Flutter-ecommerce-app
-- https://github.com/dinhthongchau/ChatWithToeicAI
-- https://github.com/dinhthongchau/VuejsNodejs-ecommerce-web
-- https://github.com/dinhthongchau/phone-shop-html-css-js-php
+- **[Flutter E-commerce App](https://github.com/dinhthongchau/Flutter-ecommerce-app)**: E-commerce app using Flutter, BloC (Cubit), Node.js, Express, MySQL, GGCloud.  
+- **[ChatWithToeicAI](https://github.com/dinhthongchau/ChatWithToeicAI)**: TOEIC learning app built with Flutter, Gemini API, and offline SQLite support.  
+- **[Vue.js E-commerce Web](https://github.com/dinhthongchau/VuejsNodejs-ecommerce-web)**: Phone shop web app with Node.js, Express, and sending email API .
 
 ## 🎯 Fun Facts  
 - I love hitting the gym 💪 to stay energized for coding.  
