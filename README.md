@@ -6,7 +6,7 @@ Flutter Developer passionate about building cross-platform mobile apps.
 - https://github.com/dinhthongchau/VuejsNodejs-ecommerce-web
 - https://github.com/dinhthongchau/phone-shop-html-css-js-php
 
-### 📫 Contact  
+## 📫 Contact  
 - Email: dinhthongchau@gmail.com
 - Location: Can Tho, Vietnam
 <!--
