@@ -2,7 +2,8 @@
 Flutter Developer passionate about building cross-platform mobile apps.
 ## 🌱 My  projects:
 - **[Flutter E-commerce App](https://github.com/dinhthongchau/Flutter-ecommerce-app)**: E-commerce app using Flutter, BloC (Cubit), Node.js, Express, MySQL, GGCloud.  
-- **[ChatWithToeicAI](https://github.com/dinhthongchau/ChatWithToeicAI)**: TOEIC learning app built with Flutter, Gemini API, and offline SQLite support.  
+- **[ChatWithToeicAI](https://github.com/dinhthongchau/ChatWithToeicAI)**: TOEIC learning app built with Flutter, Gemini API, and offline SQLite support.
+- **[Labs: Flutter E-commerce App](https://github.com/dinhthongchau/flutter-labs-myshop)**: E-commerce app using Flutter, Provider, Pocketbase. 
 - **[Vue.js E-commerce Web](https://github.com/dinhthongchau/VuejsNodejs-ecommerce-web)**: Phone shop web app with Vue.js, Node.js, Express, and sending email API .
 
 ## 🎯 Fun Facts  
