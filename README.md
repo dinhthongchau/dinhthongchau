@@ -6,7 +6,7 @@ Flutter Developer passionate about building cross-platform mobile apps.
 - **[Labs: Flutter E-commerce App](https://github.com/dinhthongchau/flutter-labs-myshop)**: E-commerce app using Flutter, Provider, Pocketbase. 
 - **[Vue.js E-commerce Web](https://github.com/dinhthongchau/VuejsNodejs-ecommerce-web)**: Phone shop web app with Vue.js, Node.js, Express, and sending email API .
 
-## 🎯 Fun Facts  
+## 🎯 Hobbies 
 - I love hitting the gym 💪 to stay energized for coding.  
 - A fan of 8-ball billiards 🎱 – precision is my game!
 
