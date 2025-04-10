@@ -9,7 +9,7 @@ Flutter Developer passionate about building cross-platform mobile apps.
 data through the Intel RealSense D435 camera. It compares the data with pre-stored student embeddings to mark attendance. The
 interface lets teachers manage sessions,, view student lists, and export attendance.
 - **[Vue.js E-commerce Web](https://github.com/dinhthongchau/VuejsNodejs-ecommerce-web)**: Phone shop SPA web app with Vue.js, Node.js, Express, and sending email API .
-- **[HTML,CSS,JS,PHP E-commerce Web](https://github.com/dinhthongchau/phone-shop-html-css-js-php-Feb2024)**: Phone shop web app with PHPMailer,CkEditor, Axios , AJAX, SESSION, HTML, CSS, JS, PHP
+- **[HTML,CSS,JS,PHP E-commerce Web](https://github.com/dinhthongchau/phone-shop-html-css-js-php-Feb2024)**: Phone shop web app with PHPMailer,CkEditor, Axios , AJAX, SESSION, HTML, CSS, JS, PHP and MySQL.
 
 ## 🎯 Hobbies 
 - I love hitting the gym 💪 to stay energized for coding.  
