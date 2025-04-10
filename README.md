@@ -1,9 +1,9 @@
 ## Hi, I'm Chau Dinh Thong! 👋  
 Flutter Developer passionate about building cross-platform mobile apps.
 ## 🌱 My Flutter projects:
-- **[Flutter E-commerce App](https://github.com/dinhthongchau/Flutter-ecommerce-app)**: E-commerce app using Flutter, BloC (Cubit), Node.js, Express, MySQL, GGCloud.  
-- **[ChatWithToeicAI](https://github.com/dinhthongchau/ChatWithToeicAI)**: TOEIC learning app built with Flutter, Gemini API, and offline SQLite support.
-- **[Labs: Flutter E-commerce App](https://github.com/dinhthongchau/flutter-labs-myshop)**: E-commerce app using Flutter, Provider, Pocketbase. 
+- **[Flutter E-commerce App](https://github.com/dinhthongchau/Flutter-ecommerce-app)**: E-commerce app using BloC (Cubit), Node.js, Express, MySQL, GGCloud.  
+- **[ChatWithToeicAI](https://github.com/dinhthongchau/ChatWithToeicAI)**: TOEIC learning app built with Provider, Gemini API, and offline SQLite support.
+- **[Labs: Flutter E-commerce App](https://github.com/dinhthongchau/flutter-labs-myshop)**: E-commerce app using Provider, Pocketbase. 
 ### Others: 
 - **[3D Face Recognition Attendance](https://github.com/dinhthongchau/nckh_070225)**:Developed in Python using libraries like insightface, Tkinter, dlib, and pyrealsense2, captures live facial
 data through the Intel RealSense D435 camera. It compares the data with pre-stored student embeddings to mark attendance. The
