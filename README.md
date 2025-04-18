@@ -1,8 +1,9 @@
 ## Hi, I'm Chau Dinh Thong! 👋  
 Flutter Developer passionate about building cross-platform mobile apps.
 ## 🌱 My Flutter projects:
-- **[Flutter E-commerce App](https://github.com/dinhthongchau/Flutter-ecommerce-app)**: E-commerce app using BloC (Cubit), Node.js, Express, MySQL, GGCloud.  
-- **[ChatWithToeicAI](https://github.com/dinhthongchau/ChatWithToeicAI)**: TOEIC learning app built with Provider, Gemini API, and offline SQLite support.
+- **[Flutter E-commerce App](https://github.com/dinhthongchau/Flutter-ecommerce-app)**: E-commerce app using BloC (Cubit), Node.js, Express, MySQL, GGCloud.
+- **[FirebaseChatWithToeicAI](https://github.com/dinhthongchau/FirebaseChatWithTOEICAI)**: TOEIC learning app built with Provider, Gemini API, and online Firebase support.
+- **[SQLiteChatWithToeicAI](https://github.com/dinhthongchau/SQLiteChatWithTOEICAI)**: TOEIC learning app built with Provider, Gemini API, and offline SQLite support.
 - **[Labs: Flutter E-commerce App](https://github.com/dinhthongchau/flutter-labs-myshop)**: E-commerce app using Provider, Pocketbase. 
 ### Others: 
 - **[3D Face Recognition Attendance](https://github.com/dinhthongchau/nckh_070225)**:Developed in Python using libraries like insightface, Tkinter, dlib, and pyrealsense2, captures live facial
@@ -18,17 +19,3 @@ interface lets teachers manage sessions,, view student lists, and export attenda
 ## 📫 Contact  
 - Email: dinhthongchau@gmail.com
 - Location: Can Tho, Vietnam
-<!--
-**dinhthongchau/dinhthongchau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
