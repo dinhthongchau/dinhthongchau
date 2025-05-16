@@ -1,6 +1,7 @@
 ## Hi, I'm Chau Dinh Thong! 👋  
 Flutter Developer passionate about building cross-platform mobile apps.
 ## 🌱 My Flutter projects:
+- **[CofeeShop App](https://github.com/dinhthongchau/coffeeshop_app1)**: Coffee shop app using BLoC, goRouter, Spline chart, column chart, large project structure.
 - **[Flutter E-commerce App](https://github.com/dinhthongchau/Flutter-ecommerce-app)**: E-commerce app using BloC (Cubit), Node.js, Express, MySQL, GGCloud.
 - **[FirebaseChatWithToeicAI](https://github.com/dinhthongchau/FirebaseChatWithTOEICAI)**: TOEIC learning app built with Provider, Gemini API, and online Firebase support.
 - **[SQLiteChatWithToeicAI](https://github.com/dinhthongchau/SQLiteChatWithTOEICAI)**: TOEIC learning app built with Provider, Gemini API, and offline SQLite support.
