@@ -20,6 +20,7 @@ data through the Intel RealSense D435 camera. It compares the data with pre-stor
 - A fan of 8-ball billiards 🎱 – precision is my game!
 - I enjoy badminton 🏸 and football ⚽ – great ways to stay active and build focus.
 - Into LienQuan and TFT 🎮 – strategy and quick thinking keep me sharp.
+- Love exploring tech trends and AI tools 🤖 – always curious and eager to learn.
 
 ## 📫 Contact  
 - Email: dinhthongchau@gmail.com
