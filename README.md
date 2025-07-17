@@ -3,7 +3,7 @@ Flutter Developer passionate about building cross-platform mobile/web apps.
 ## 🌱 My projects:
 - **[Enzo_app_frontend](https://github.com/dinhthongchau/flutter-enzo-english)**: Frontend [ 5/6/2025-Now ] 
 - **[Enzo app Backend](https://github.com/dinhthongchau/fastAPI-enzo-english)**: Fast APi backend [ 5/6/2025 -Now ] 
-- **[Dynamic Form]([https://github.com/dinhthongchau/biwo-finance](https://github.com/dinhthongchau/biwo-dynamic-form))**: Use Remote Config to create form dyamic input. [ 19/6-Now ] 
+- **[Dynamic Form](https://github.com/dinhthongchau/biwo-dynamic-form)**: Use Remote Config to create form dyamic input. [ 19/6-Now ] 
 - **[Finance App](https://github.com/dinhthongchau/biwo-finance)**: FInance App BloC, GoRouter, Firebase Auth, Firebase Cloud Messaging charts. [ 13/4-18/5/2025 ] 
 - **[CofeeShop App](https://github.com/dinhthongchau/coffeeshop_app1)**: Coffee shop app using BLoC, goRouter, Spline and Column charts. [ 13/4-18/5/2025 ] 
 - **[Flutter E-commerce App](https://github.com/dinhthongchau/Flutter-ecommerce-app)**: E-commerce app using Cubit, Node.js, Express, MySQL, GGCloud. [6/2-26/3/2025]
