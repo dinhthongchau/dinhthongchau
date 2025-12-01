@@ -1,6 +1,6 @@
 ## Hi, I'm Chau Dinh Thong! 👋
 
-Fullstack Developer passionate about building cross-platform mobile/web apps
+A Developer passionate about building cross-platform mobile/web apps
 
 ### Tech Stacks:
 - **Mobile**: Flutter, Dart 
@@ -40,6 +40,7 @@ Fullstack Developer passionate about building cross-platform mobile/web apps
 ## 📫 Contact
 - **Email**: dinhthongchau@gmail.com
 - **Location**: Can Tho, Vietnam
+
 
 
 
