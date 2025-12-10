@@ -11,7 +11,7 @@ A Developer passionate about building cross-platform mobile/web apps
 
 ## 🌱 My projects:
 
-- **[fullstack-english-app-link-youtube](https://www.youtube.com/watch?v=HPoIPvVLf8c&feature=youtu.be)**: The platform provides dictionary management, spaced repetition flashcards, dictation exercises, AI-powered grammar exercises, dialogue practice, and real-time pronunciation assessment with phoneme-level analysis. 
+- **[english-appe](https://evibe-english.vercel.app/dashboard)**: The platform provides dictionary management, spaced repetition flashcards, dictation exercises, AI-powered grammar exercises, dialogue practice, and real-time pronunciation assessment with phoneme-level analysis. 
 - **[Dynamic Form (like Google Form)](https://github.com/dinhthongchau/biwo-dynamic-form)**: Use Remote Config to create form dynamic input [6/2025-7/2025]
 - **[Finance App](https://github.com/dinhthongchau/biwo-finance)**: Finance App BloC, GoRouter, Firebase Auth, Firebase Cloud Messaging and Column charts [6/2025]
 - **[CoffeeShop App](https://github.com/dinhthongchau/coffeeshop_app1)**: Coffee shop app using BLoC, goRouter, and Column, Spline charts [13/4-18/5/2025]
@@ -40,6 +40,7 @@ A Developer passionate about building cross-platform mobile/web apps
 ## 📫 Contact
 - **Email**: dinhthongchau@gmail.com
 - **Location**: Can Tho, Vietnam
+
 
 
 
