@@ -15,9 +15,9 @@ A Developer passionate about building cross-platform mobile/web apps
 Integrated subscription and in-app purchase features (monthly plans, entitlement checks, paywall UI) using Renevue Cat.
 Built using Flutter, Dart, BLoC, Firebase ( Auth, Remote Config, App Check, Crashlytics) , get_it, Dio, just_audio, record, go router, wav,... and clean architecture principles.
 Designed responsive UI, local caching mechanisms, audio playback, and recording workflow.
-- Backend (FastAPI + MongoDB) Developed API for vocabulary, spaced-repetition logic, AI-generated grammar exercises, pronunciation analysis, and user progress tracking. Implemented JWT auth, role-based access control, and performance-optimized endpoints. 
-- Admin Dashboard (Next.js) Built management UI for words, examples, dictation, AI exercises, and user progress. Stack: Next.js, React, TypeScript, Tailwind, Radix UI. 
-- Role: Designed and implemented core mobile features and contributed across backend and admin dashboard (end-to-end).
+ - Backend (FastAPI + MongoDB) Developed API for vocabulary, spaced-repetition logic, AI-generated grammar exercises, pronunciation analysis, and user progress tracking. Implemented JWT auth, role-based access control, and performance-optimized endpoints. 
+ - Admin Dashboard (Next.js) Built management UI for words, examples, dictation, AI exercises, and user progress. Stack: Next.js, React, TypeScript, Tailwind, Radix UI. 
+ - Role: Designed and implemented core mobile features and contributed across backend and admin dashboard (end-to-end).
 - **[Dynamic Form (like Google Form)](https://github.com/dinhthongchau/biwo-dynamic-form)**: Use Remote Config to create form dynamic input [6/2025-7/2025]
 - **[Finance App](https://github.com/dinhthongchau/biwo-finance)**: Finance App BloC, GoRouter, Firebase Auth, Firebase Cloud Messaging and Column charts [6/2025]
 - **[CoffeeShop App](https://github.com/dinhthongchau/coffeeshop_app1)**: Coffee shop app using BLoC, goRouter, and Column, Spline charts [13/4-18/5/2025]
@@ -46,6 +46,7 @@ Designed responsive UI, local caching mechanisms, audio playback, and recording 
 ## 📫 Contact
 - **Email**: dinhthongchau@gmail.com
 - **Location**: Can Tho, Vietnam
+
 
 
 
