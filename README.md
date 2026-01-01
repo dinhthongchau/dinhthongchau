@@ -31,8 +31,8 @@ Designed responsive UI, local caching mechanisms, audio playback, and recording 
 - **[Vue.js E-commerce Web](https://github.com/dinhthongchau/VuejsNodejs-ecommerce-web)**: Phone shop SPA web app with Vue.js, Node.js, Express, and sending email API [11/2024]
 - **[HTML,CSS,JS,PHP E-commerce Web](https://github.com/dinhthongchau/phone-shop-html-css-js-php-Feb2024)**: Phone shop web app with PHPMailer, CkEditor, Axios, AJAX, SESSION, HTML, CSS, JS, PHP and MySQL [2/2024]
 ### Others tool:
-- **[Sub-agents-demo](https://github.com/dinhthongchau/sub-agents-demo)** (2 days): Modern, responsive website for introducing online service then contact via Zalo (e.g., ChatGPT, Netflix). Frontend in Flutter Web; backend in Encore.ts with Postgres and microservices
-- **[Playwright Browser Automation với Proxy & Cookies](https://github.com/dinhthongchau/playwright-login-with-cookie-proxy)** (1 day): A Python script for automated browser operations with proxy and cookie support, designed for testing and accessing websites that require authentication
+- **[Sub-agents-demo](https://github.com/dinhthongchau/sub-agents-demo)**: Modern, responsive website for introducing online service then contact via Zalo (e.g., ChatGPT, Netflix). Frontend in Flutter Web; backend in Encore.ts with Postgres and microservices
+- **[Playwright Browser Automation using Proxy & Cookies](https://github.com/dinhthongchau/playwright-login-with-cookie-proxy)** A Python script for automated browser operations with proxy and cookie support, designed for testing and accessing websites that require authentication
 - **[Tool Python Fetch email](https://github.com/dinhthongchau/tkinter_self_tools)** : Access token from Microsoft (via refresh_token + client_id) and fetch recent Outlook messages through Microsoft Graph [09/2025]
 - **[Extension Javascript fb-friend-auto-accept-extension
  ](https://github.com/dinhthongchau/fb_auto_friend_extension)** 
