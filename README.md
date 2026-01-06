@@ -1,11 +1,10 @@
 ## Hi, I'm Chau Dinh Thong! 👋
 
-A Developer passionate about building cross-platform mobile/web apps
+Frontend & Mobile Developer enthusiastic about crafting modern apps
 
 ### Tech Stacks:
 - **Mobile**: Flutter, Dart 
-- **Frontend**: TypeScript, Python, JavaScript, HTML, CSS
-- **Web Frameworks**: Next.js, React.js, Vue.js
+- **Frontend**: TypeScript, Python, JavaScript, HTML, CSS, Next.js, React.js, Vue.js
 - **Backend**: Node.js, FastAPI, Encore TS
 - **Databases**: MySQL, MongoDB, PostgreSQL
 
@@ -43,6 +42,7 @@ Designed responsive UI, local caching mechanisms, audio playback, and recording 
 ## 📫 Contact
 - **Email**: dinhthongchau@gmail.com
 - **Location**: Can Tho, Vietnam
+
 
 
 
