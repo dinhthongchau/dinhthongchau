@@ -1,6 +1,6 @@
 ## Hi, I'm Chau Dinh Thong! 👋
 
-Frontend & Mobile Developer enthusiastic about crafting modern apps
+ Developer enthusiastic about crafting modern apps
 
 ### Tech Stacks:
 - **Mobile**: Flutter, Dart 
@@ -42,6 +42,7 @@ Designed responsive UI, local caching mechanisms, audio playback, and recording 
 ## 📫 Contact
 - **Email**: dinhthongchau@gmail.com
 - **Location**: Can Tho, Vietnam
+
 
 
 
