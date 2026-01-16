@@ -1,6 +1,6 @@
 ## Hi, I'm Thong! 👋
 
-Full‑stack developer specializing in Flutter, React, and Next.js — building scalable apps with modern UI/UX.
+A full‑stack developer passionate about crafting modern web and mobile applications, blending clean architecture with engaging user experiences.
 
 ### Tech Stacks:
 - **Mobile**: Flutter, Dart 
@@ -46,6 +46,7 @@ Developed admin dashboard using Next.js, TypeScript, Tailwind CSS
 ## 📫 Contact
 - **Email**: dinhthongchau@gmail.com
 - **Location**: Can Tho, Vietnam
+
 
 
 
