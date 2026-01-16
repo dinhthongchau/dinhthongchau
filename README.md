@@ -1,26 +1,18 @@
 ## Hi, I'm Thong! 👋
 
-A full‑stack developer passionate about crafting modern web and mobile applications, blending clean architecture with engaging user experiences.
+A full‑stack developer capable of building modern web and mobile applications, designing intuitive user experiences, and applying AI best practices to develop and maintain high‑quality products
 
 ### Tech Stacks:
-- **Mobile**: Flutter, Dart 
-- **Frontend**: TypeScript, Python, JavaScript, HTML, CSS, Next.js, React.js, Vue.js
-- **Backend**: Node.js, FastAPI, Encore TS
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Mobile:** Flutter, Dart  
+- **Frontend:**  React.js, Next.js, Vue.js, TailwindCSS
+- **Backend:** Node.js, FastAPI, Encore TS  
+- **Databases:** MySQL, MongoDB, PostgreSQL  
 
 ## My projects:
 
 - **[eVibe-English-app ( Google Play Store ) ](https://evibe-english.vercel.app/dashboard)**:
-Link: https://evibe-english.vercel.app/dashboard
-Architected production Flutter app using Clean Architecture with BLoC state management
-Integrated Firebase suite (Auth, Remote Config, App Check, Crashlytics) and RevenueCat for subscription/IAP
-Implemented real-time audio recording & playback workflow with local caching 
-Applied DI pattern (get_it), REST API integration (Dio), and routing (go_router)
-Designed responsive UI supporting multiple screen sizes
---Backend & Admin
-Built RESTful API with FastAPI + MongoDB (JWT auth, role-based access)
-Developed admin dashboard using Next.js, TypeScript, Tailwind CSS
- - Role: Designed and implemented core mobile features and contributed across backend and admin dashboard (end-to-end).
+Link: https://evibe-english.vercel.app/dashboard. Evibe English is a production Flutter application architected with Clean Architecture and BLoC state management. It integrates the Firebase suite (Auth, Remote Config, App Check, Crashlytics) alongside RevenueCat to support subscription and in‑app purchases. The app implements a real‑time audio recording and playback workflow with local caching, while leveraging dependency injection (get_it), REST API integration via Dio, and routing with go_router. Its responsive UI was designed to adapt seamlessly across multiple screen sizes. On the backend, a RESTful API was built using FastAPI and MongoDB with JWT authentication and role‑based access control. Additionally, an admin dashboard was developed with Next.js, TypeScript, and Tailwind CSS to manage content and users. My role encompassed designing and implementing core mobile features and contributing across backend and admin dashboard development, delivering an end‑to‑end solution.
+
 - **[Dynamic Form (like Google Form)](https://github.com/dinhthongchau/biwo-dynamic-form)**: Use Remote Config to create form dynamic input [6/2025-7/2025]
 - **[Finance App](https://github.com/dinhthongchau/biwo-finance)**: Finance App BloC, GoRouter, Firebase Auth, Firebase Cloud Messaging and Column charts [6/2025]
 - **[CoffeeShop App](https://github.com/dinhthongchau/coffeeshop_app1)**: Coffee shop app using BLoC, goRouter, and Column, Spline charts [13/4-18/5/2025]
@@ -46,6 +38,7 @@ Developed admin dashboard using Next.js, TypeScript, Tailwind CSS
 ## 📫 Contact
 - **Email**: dinhthongchau@gmail.com
 - **Location**: Can Tho, Vietnam
+
 
 
 
