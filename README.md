@@ -1,6 +1,6 @@
 ## Hi, I'm Thong! 👋
 
-A developer capable of building modern web and mobile applications, designing intuitive user experiences, and applying AI best practices to develop and maintain high‑quality products
+A developer capable of building web and mobile applications, designing intuitive user experiences, and applying AI best practices to develop and maintain high‑quality products
 
 ### Tech Stacks:
 - **Mobile:** Flutter, Dart  
@@ -9,7 +9,8 @@ A developer capable of building modern web and mobile applications, designing in
 - **Databases:** MySQL, MongoDB, PostgreSQL  
 
 ## My projects:
-
+- Telebot*
+- Grocery Shop *
 - **[eVibe-English-app ( Google Play Store ) ](https://evibe-english.vercel.app/dashboard)**:
 Link: https://evibe-english.vercel.app/dashboard. Evibe English is a production Flutter application architected with Clean Architecture and BLoC state management. It integrates the Firebase suite (Auth, Remote Config, App Check, Crashlytics) alongside RevenueCat to support subscription and in‑app purchases. The app implements a real‑time audio recording and playback workflow with local caching, while leveraging dependency injection (get_it), REST API integration via Dio, and routing with go_router. Its responsive UI was designed to adapt seamlessly across multiple screen sizes. On the backend, a RESTful API was built using FastAPI and MongoDB with JWT authentication and role‑based access control. Additionally, an admin dashboard was developed with Next.js, TypeScript, and Tailwind CSS to manage content and users. My role encompassed designing and implementing core mobile features and contributing across backend and admin dashboard development, delivering an end‑to‑end solution.
 
@@ -33,11 +34,12 @@ Link: https://evibe-english.vercel.app/dashboard. Evibe English is a production 
  ](https://github.com/dinhthongchau/fb_auto_friend_extension)** : Automatically add friends when clicking on a post reaction.
 
 ## Hobbies
-- Love exploring tech trends and AI knowledge ,always curious and eager to learn
+- Love exploring AI products, tech trends and AI knowledge ,always curious and eager to learn
 
 ## 📫 Contact
 - **Email**: dinhthongchau@gmail.com
 - **Location**: Can Tho, Vietnam
+
 
 
 
