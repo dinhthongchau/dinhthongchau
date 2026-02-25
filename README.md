@@ -1,6 +1,6 @@
 ## Hi, I'm Thong! 👋
 
-A full‑stack developer capable of building modern web and mobile applications, designing intuitive user experiences, and applying AI best practices to develop and maintain high‑quality products
+A developer capable of building modern web and mobile applications, designing intuitive user experiences, and applying AI best practices to develop and maintain high‑quality products
 
 ### Tech Stacks:
 - **Mobile:** Flutter, Dart  
@@ -38,6 +38,7 @@ Link: https://evibe-english.vercel.app/dashboard. Evibe English is a production 
 ## 📫 Contact
 - **Email**: dinhthongchau@gmail.com
 - **Location**: Can Tho, Vietnam
+
 
 
 
