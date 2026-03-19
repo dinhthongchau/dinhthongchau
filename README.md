@@ -1,6 +1,6 @@
 ## Hi, I'm Thong! 👋
 
-A developer capable of building web and mobile applications, designing intuitive user experiences, and applying AI best practices to develop and maintain high‑quality products
+Passionate developer in web and mobile app creation. Enjoys designing intuitive user experiences and applying AI best practices to build quality products. Interested in AI Automation, OpenClaw, and other automation tools to improve workflows, efficiency, and scalability.
 
 ### Tech Stacks:
 - **Mobile:** Flutter, Dart  
@@ -9,6 +9,7 @@ A developer capable of building web and mobile applications, designing intuitive
 - **Databases:** MySQL, MongoDB, PostgreSQL  
 
 ## My projects:
+- MyOpenclaw:
 - Telebot*
 - Grocery Shop *
 - **[eVibe-English-app ( Google Play Store ) ](https://evibe-english.vercel.app/dashboard)**:
@@ -33,12 +34,10 @@ Link: https://evibe-english.vercel.app/dashboard. Evibe English is a production 
 - **[Extension Javascript fb-friend-auto-accept-extension
  ](https://github.com/dinhthongchau/fb_auto_friend_extension)** : Automatically add friends when clicking on a post reaction.
 
-## Hobbies
-- Love exploring AI products, tech trends and AI knowledge ,always curious and eager to learn
 
 ## 📫 Contact
 - **Email**: dinhthongchau@gmail.com
-- **Location**: Can Tho, Vietnam
+
 
 
 
