@@ -2,16 +2,11 @@
 
 Passionate developer in web and mobile app creation. Enjoys designing intuitive user experiences and applying AI best practices to build quality products. Interested in AI Automation, OpenClaw, and other automation tools to improve workflows, efficiency, and scalability.
 
-### Tech Stacks:
-- **Mobile:** Flutter, Dart  
-- **Frontend:**  React.js, Next.js, Vue.js, TailwindCSS
-- **Backend:** Node.js, FastAPI, Encore TS  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
-
 ## My projects:
-- MyOpenclaw:
+- Zalo chatbot*
+- My Openclaw*
 - Telebot*
-- Grocery Shop *
+- Grocery Shop*
 - **[eVibe-English-app ( Google Play Store ) ](https://evibe-english.vercel.app/dashboard)**:
 Link: https://evibe-english.vercel.app/dashboard. Evibe English is a production Flutter application architected with Clean Architecture and BLoC state management. It integrates the Firebase suite (Auth, Remote Config, App Check, Crashlytics) alongside RevenueCat to support subscription and in‑app purchases. The app implements a real‑time audio recording and playback workflow with local caching, while leveraging dependency injection (get_it), REST API integration via Dio, and routing with go_router. Its responsive UI was designed to adapt seamlessly across multiple screen sizes. On the backend, a RESTful API was built using FastAPI and MongoDB with JWT authentication and role‑based access control. Additionally, an admin dashboard was developed with Next.js, TypeScript, and Tailwind CSS to manage content and users. My role encompassed designing and implementing core mobile features and contributing across backend and admin dashboard development, delivering an end‑to‑end solution.
 
