@@ -1,6 +1,6 @@
 ## Hi, I'm Thong! 👋
 
-Passionate developer in web and mobile app creation. Enjoys designing intuitive user experiences and applying AI best practices to build quality products. Interested in AI Automation, OpenClaw, and other automation tools to improve workflows, efficiency, and scalability.
+Enjoys designing intuitive UX and applying AI best practices to build quality products. Interested in AI Automation, OpenClaw, and other automation tools to improve workflows, efficiency, and scalability.
 
 ## My projects:
 - Zalo chatbot*
